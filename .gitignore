@@ -1,0 +1,7 @@
+env
+\env
+.idea
+.vscode
+.DS_Store
+.env
+__pycache__
