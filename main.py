@@ -15,4 +15,4 @@ if __name__ == '__main__':
         compress(path + i, path_compress + i, power=3)
 
     #join pdf
-    join_pdf(path, 'files_compress/files_compress.pdf')
+    join_pdf(path, 'files_compress/files_joined.pdf')
